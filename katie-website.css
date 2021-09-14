@@ -510,6 +510,14 @@ grid-template-areas:
   flex-direction:row;
   margin:5%;
 }
+@media (min-width: 800px) {
+.portfolio {
+display:flex;
+flex-direction:row;
+margin:5%;
+	
+}
+
 .project-tile{
   background-color:var(--clr-dark);
   margin:1em;
